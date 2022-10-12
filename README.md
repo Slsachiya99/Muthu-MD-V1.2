@@ -1,5 +1,6 @@
 # MUTHU-MD
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT.;CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 
     MUTHU-MD
@@ -23,7 +24,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="700"/>
+<img src"https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
 
 </p>
 
@@ -38,6 +39,8 @@
 <p align="center">MUTHU-MD</br> 
  
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT.;CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+
 
 1. Click [SCAN](https://replit.com/@Thusitmk/MUTHU-MD-V70?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
@@ -49,6 +52,7 @@
 
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT.;CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 
 
