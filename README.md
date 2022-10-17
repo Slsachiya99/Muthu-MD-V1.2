@@ -1,17 +1,17 @@
-# MUTHU-MD
+# ❊MD-SACHIYA-BITA-V4 VIP❊
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT.;CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 
-    MUTHU-MD
+     ❊MD-SACHIYA-BITA-V4 VIP❊
     
    
    
    
    
-   ```Thanks Fro using MUTHU-MD```
+   ```Thanks Fro using SACHIYA-MD```
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4) , [`Vihanga-YT`](https://github.com/vihangayt0)
+## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4) , [`SACHIYA-YT`](https://github.com/Slsachiya99/SACHIYA-MD-12V.git)
 
 
 
@@ -24,7 +24,7 @@
 
   <p align="center">
 
-<img srcn="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
+<img srcn= "https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
 
 </p>
 
@@ -36,13 +36,13 @@
 
 </div>
 
-<p align="center">MUTHU-MD</br> 
+<p align="center">SACHIYA-MD</br> 
  
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT.;CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 
-1. Click [SCAN](https://replit.com/@Thusitmk/MUTHU-MD-V70?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-3#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/user123ja/Muthu-MD-V1.2/fork)
 
@@ -58,8 +58,8 @@
 
 
 
-## Thanks To
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+## ❊Thanks To❊❤️❊
+* [`SACHIYA-YT`](https://github.com/vihangayt0)
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
 * [`DGXeon`](https://github.com/DGXeon)
